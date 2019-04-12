@@ -39,6 +39,7 @@ namespace TestAnalysisTools
                 // TODO: Use an IF Statement to make sure that variable longest Word
                 // is always set to the Longest Word in the input string
             }
+
             return currentWord;
         }
         
